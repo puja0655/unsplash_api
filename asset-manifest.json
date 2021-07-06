@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/puja0655/unsplash_api.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/puja0655/unsplash_api.git/static/js/main.ac7164bd.chunk.js",
+    "main.js.map": "/puja0655/unsplash_api.git/static/js/main.ac7164bd.chunk.js.map",
+    "runtime-main.js": "/puja0655/unsplash_api.git/static/js/runtime-main.28d9e182.js",
+    "runtime-main.js.map": "/puja0655/unsplash_api.git/static/js/runtime-main.28d9e182.js.map",
+    "static/css/2.4be38407.chunk.css": "/puja0655/unsplash_api.git/static/css/2.4be38407.chunk.css",
+    "static/js/2.55d39eb7.chunk.js": "/puja0655/unsplash_api.git/static/js/2.55d39eb7.chunk.js",
+    "static/js/2.55d39eb7.chunk.js.map": "/puja0655/unsplash_api.git/static/js/2.55d39eb7.chunk.js.map",
+    "static/js/3.75dc7306.chunk.js": "/puja0655/unsplash_api.git/static/js/3.75dc7306.chunk.js",
+    "static/js/3.75dc7306.chunk.js.map": "/puja0655/unsplash_api.git/static/js/3.75dc7306.chunk.js.map",
+    "index.html": "/puja0655/unsplash_api.git/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/puja0655/unsplash_api.git/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/puja0655/unsplash_api.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.55d39eb7.chunk.js.LICENSE.txt": "/puja0655/unsplash_api.git/static/js/2.55d39eb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28d9e182.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.55d39eb7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ac7164bd.chunk.js"
+  ]
+}
