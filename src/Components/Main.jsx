@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import { Button } from "reactstrap";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import Unsplash from "./unsplash";
 class Main extends Component {
   constructor(props) {
