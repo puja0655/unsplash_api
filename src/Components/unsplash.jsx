@@ -20,7 +20,6 @@ class Unsplash extends Component {
   }
   async getPhotos() {
     const { page } = this.state;
-    console.log("hii");
     await axios
       .get(
         `https://api.unsplash.com/search/photos?page=5&per_page=1${page}&query=${this.props.search}&client_id=${process.env.REACT_APP_CLIENT_ID}`
